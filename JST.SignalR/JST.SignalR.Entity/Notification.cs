@@ -2,7 +2,7 @@
 
 namespace JST.SignalR.Entity
 {
-    public class Message
+    public class Notification
     {
         public User User { get; set; }
 

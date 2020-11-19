@@ -9,7 +9,7 @@ namespace JST.SignalR.Application.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class MessageController : ControllerBase
+    public class NotificationController : ControllerBase
     {
         // GET: api/Message
         [HttpGet]

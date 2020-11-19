@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JST.SignalR.Service", "JST.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JST.SignalR.Application", "JST.SignalR.Application\JST.SignalR.Application.csproj", "{450A621B-75B1-4193-AED1-3BC6A89899AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JST.SignalR.UI", "JST.SignalR.UI\JST.SignalR.UI.csproj", "{C371DD92-BD34-493C-A5BA-F6383EF224BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{450A621B-75B1-4193-AED1-3BC6A89899AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{450A621B-75B1-4193-AED1-3BC6A89899AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{450A621B-75B1-4193-AED1-3BC6A89899AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C371DD92-BD34-493C-A5BA-F6383EF224BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C371DD92-BD34-493C-A5BA-F6383EF224BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C371DD92-BD34-493C-A5BA-F6383EF224BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C371DD92-BD34-493C-A5BA-F6383EF224BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
